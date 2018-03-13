@@ -7,3 +7,5 @@ Youdao_translation   ------->有道翻译
 Mail.py    ------->  发送邮件
 
 Express.py   ------>  快递查询
+
+Baidu_face  ------->   利用百度人脸识别接口用摄像头进行识别
