@@ -1,14 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-------------------------------------
-File Name:    test
-Author:    Mrtutu
-Date:    2018/3/10
-Description:
-------------------------------------
+import matplotlib.pyplot as plt
+import numpy as np
 
-"""
-import playsound
-
-playsound.playsound('auido.mp3')
+X = np.linspace(-np.pi, np.pi, 256, endpoint=True)
+C,S = np.cos(X), np.sin(X)
+plt.plot(X,C)
+plt.plot(X,S)
+plt.show()

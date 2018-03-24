@@ -81,13 +81,13 @@ sender_qq = '3522305831'
 
 pwd = 'hflimschcxrndbjh'
 
-receiver = '714471407@qq.com'
+receiver = '1196395430@qq.com'
 
 title = 'Test via python_mail'
 
 content = """
-    <p>python邮件测试</p>
-    <p><a href = "www.mrtutu.com">个人博客</a></p>
+    <p>shabi</p>
+    <p><a href = "www.mrtutu.cn">个人博客</a></p>
     <p><img src ="cid:image1"></p>
 """
 
